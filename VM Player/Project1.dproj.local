@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.693,C:\Users\admin\Desktop\VM Player\Security.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.619,C:\Users\admin\Desktop\VM Player\Unit2.pas=C:\Users\admin\Desktop\VM Player\Security.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.583,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.102,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\admin\Desktop\파싱기\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.104,=C:\Users\admin\Desktop\VM Player\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.513,=C:\Users\admin\Desktop\지지미 파싱기 델파이\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.096,=C:\Users\admin\Desktop\지지미 파싱기 델파이\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.102,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\admin\Desktop\파싱기\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.004,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\admin\Desktop\파싱기\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
